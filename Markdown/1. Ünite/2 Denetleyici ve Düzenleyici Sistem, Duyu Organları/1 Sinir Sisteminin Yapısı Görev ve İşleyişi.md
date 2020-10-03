@@ -12,13 +12,13 @@
 ---
 Nöron, gövde ve aksondan oluşur. Gövdede; çekirdek, organeller ve dendritler bulunur. Aksonda, schwann hücreleri bulunur.
 
-+ :star: ***Nöronlar bölünemez***.
++ :star: ***Nöronlar bölünemez.***
 
 + Schwann hücreleri **MİYELİN** kılıf üretir.
 + Miyelin kılıf iletimin *hızlı* olmasını sağlar.
-+ Akson çapı genişledikçe iletim *hızlanır*.
-+ Beyin, omurilik ve çizgili kasları uyaran nöronlar **MİYELİNLİDİR**.
-+ Miyelinin olmadığı yerde schwann hücreleri boğum oluşturur. Ranvier boğum denilen bu yapılarda iletim **YAVAŞLAR**.
++ Akson çapı genişledikçe iletim *hızlanır.*
++ Beyin, omurilik ve çizgili kasları uyaran nöronlar **MİYELİNLİDİR.**
++ Miyelinin olmadığı yerde schwann hücreleri boğum oluşturur. Ranvier boğum denilen bu yapılarda iletim **YAVAŞLAR.**
 * İletim dendritten aksona doğrudur.  
 
 !["İletim Yönü"](resources/sinir_hucresi(iletim_yonu).png)
