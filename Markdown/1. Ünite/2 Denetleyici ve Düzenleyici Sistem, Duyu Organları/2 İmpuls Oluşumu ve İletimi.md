@@ -23,7 +23,7 @@ Akson uçlarından sinaptik boşluğa nörotransmitter(nörohormon) salgılanır
 :star: Akson boyunca iletimde sırasıyla polarizasyon, depolarizasyon ve repolarizasyon olayları gerçekleşir.
 
 ---
-### POLARİZASYON:
+>### POLARİZASYON:
 > Dinlenme halindeki nöronda oluşan kutuplaşmadır.
 >![](resources/sinir_hucresi(ici_disi).png)
 >+ Hücre dışı artı(+) hücre içi eksi(-) yüklüdür.
@@ -37,3 +37,31 @@ Akson uçlarından sinaptik boşluğa nörotransmitter(nörohormon) salgılanır
 >>
 >- Hücre içi elektrik farkı -70mV’dur.
 >
+---
+>### DEPOLARİZASYON:
+>+ Nöron uyarılınca Na kapıları açılır Na hücre içine difüzyınla geçer.
+>+ Hücre içi artı(+) dışı eksi(-) yüklenir.  
+>!["Depolarizasyon"](resources/depolarizasyon.png)  
+>-Uyarının geldiği akson kısmı depolarize olur. Uyarının geçemediği diğer kısım hâlâ polarizedir.
+---
+>### REPOLARİZASYON:
+>+ Nöronun yeni uyarı alabilmek için eski kutuplaşma haline dönmesidir.
+>+ Na kapıları kapanır, K kapıları açılır. K difüzyonla atılır.
+
++ Nöronun tekrar uyarı alabilmesi için Na-K iyon derişiminin tekrar eski haline dönmesi gerekir. Na-K pompası çalışır. ***ATP harcanır.***
++ Nöronun zar potansiyelindeki bu değişikliklere *aksiyon potansiyeli* denir.
+
+>!["İmpuls iletimi aşamaları"](resources/impuls_iletimi_asamalari.png)  
+>III. → Uyarı henüz buraya gelmemiş ilk haliyle bekliyor.  
+>II. → Uyarı almış, yük değişimi olmuş.  
+>I. → Tekrar yük değişimi olup eski haline dönmüş.  
+
++ Repolarizasyonda ve polarizasyonda Na-K pompası çalışır.
++ Polarizasyonda dışarıda Na fazlayken, depolarizasyonda K fazladır.
++ Miyelinli nöreonlarda iyon geçişi ranvie boğumlarda gerçekleşir.
++ Ca⁺² kanalı Na-K popmasını güçlendirir. (Hücre içine Ca geçişi)
++ Zayıf bir uyarı nöronu uyarmaz. Uyarının tüm hücre boyunca yayılabileceği değere sahip olması gerekir. Bu değer ***EŞİK DEĞER***dir.
+
+Eşik değer ve üzerindeki değerlere nöron aynı şiddette impuls oluşturur. Buna *YA HEP YA HİÇ* kuralı denir. (Eşiğin altına hiç tepki yok, eşik değer ve üzerine aynı şiddette tepki) (Aksiyon potansiyeli)
+
+#TODO: mV grafiği eklenecek
