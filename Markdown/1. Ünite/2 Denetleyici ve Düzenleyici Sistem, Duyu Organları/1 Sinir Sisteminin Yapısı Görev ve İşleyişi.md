@@ -1,13 +1,13 @@
 # Sinir Sisteminin Yapısı Görev ve İşleyişi
 
-+ Sinir hücresi-> Nöron
-+ Nöron zarı-> Nörolemma
-+ Nöron sitoplazması-> Nöroplazma
++ Sinir hücresi → Nöron
++ Nöron zarı → Nörolemma
++ Nöron sitoplazması → Nöroplazma
 
 ## Sinir Hücresi:
-!["Sinir hücresi"](resources/sinir_hucresi(cekirdek-dendrit).png)
+![Sinir hücresi](resources/sinir_hucresi(cekirdek-dendrit).png)
 
-!["Sinir hücresi"](resources/sinir_hucresi(govde-akson).png)
+![Sinir hücresi](resources/sinir_hucresi(govde-akson).png)
 
 ---
 Nöron, gövde ve aksondan oluşur. Gövdede; çekirdek, organeller ve dendritler bulunur. Aksonda, schwann hücreleri bulunur.
@@ -21,7 +21,7 @@ Nöron, gövde ve aksondan oluşur. Gövdede; çekirdek, organeller ve dendritle
 + Miyelinin olmadığı yerde schwann hücreleri boğum oluşturur. Ranvier boğum denilen bu yapılarda iletim **YAVAŞLAR.**
 * İletim dendritten aksona doğrudur.  
 
-!["İletim Yönü"](resources/sinir_hucresi(iletim_yonu).png)
+![İletim Yönü](resources/sinir_hucresi(iletim_yonu).png)
 
 * Dendritten gelen uyarılar gövdede değerlendirilir, iletilecekse aksona aktarılır.
 

@@ -1,6 +1,6 @@
 # İmpuls Oluşumu ve İletimi
 
-!["İmpuls Oluşumu ve İletimi"](resources/sinir_hucresi(sinaptik_bosluk-uyarı_yonu).png)
+![İmpuls Oluşumu ve İletimi](resources/sinir_hucresi(sinaptik_bosluk-uyarı_yonu).png)
 
 Sinirde iletim gerçekleşirken I. Norönun dendritinden alınan uyarı I. Norönun gövdesinden aksonuna ilerler. (1 (Nöronda iletim))
     
@@ -12,7 +12,7 @@ Akson uçlarından sinaptik boşluğa nörotransmitter(nörohormon) salgılanır
 ## 1- Nöronda İmpuls Oluşumu ve İletimi
 + Hücre tek başına değildir. Etrafında başka hücreler, içinde ve dışında pek çok kimyasal madde vardır: *Na, K, Mg, Cl, HCO<sub>3</sub> ; Glikoz, Aminoasit, Fosfolipit, Kolesterol, Protein, Nötral yağ.*
 
-!["Kimyasal Maddeler"](resources/sinir_hucresi(kimyasal_maddeler).png)
+![Kimyasal Maddeler](resources/sinir_hucresi(kimyasal_maddeler).png)
 
 + Bu bileşenlere bakıldığında hücre dışı sıvıda Na<sup>+</sup> iyonlarının K<sup>+</sup> iyonlarından fazla olduğu görülür.
 + Hücre zarında bulunan taşıyıcı proteinler ve protein kanlları lipitten geçemeyen büyük moleküllerim ve suyun geçişini kontrol eder.
@@ -41,7 +41,7 @@ Akson uçlarından sinaptik boşluğa nörotransmitter(nörohormon) salgılanır
 >### DEPOLARİZASYON:
 >+ Nöron uyarılınca Na kapıları açılır Na hücre içine difüzyonla geçer.
 >+ Hücre içi artı(+) dışı eksi(-) yüklenir.  
->!["Depolarizasyon"](resources/depolarizasyon.png)  
+>![Depolarizasyon](resources/depolarizasyon.png)  
 >-Uyarının geldiği akson kısmı depolarize olur. Uyarının geçemediği diğer kısım hâlâ polarizedir.
 ---
 >### REPOLARİZASYON:
@@ -51,7 +51,7 @@ Akson uçlarından sinaptik boşluğa nörotransmitter(nörohormon) salgılanır
 + Nöronun tekrar uyarı alabilmesi için Na-K iyon derişiminin tekrar eski haline dönmesi gerekir. Na-K pompası çalışır. ***ATP harcanır.***
 + Nöronun zar potansiyelindeki bu değişikliklere *aksiyon potansiyeli* denir.
 
->!["İmpuls iletimi aşamaları"](resources/impuls_iletimi_asamalari.png)  
+>![İmpuls iletimi aşamaları](resources/impuls_iletimi_asamalari.png)  
 >III. → Uyarı henüz buraya gelmemiş ilk haliyle bekliyor.  
 >II. → Uyarı almış, yük değişimi olmuş.  
 >I. → Tekrar yük değişimi olup eski haline dönmüş.  
